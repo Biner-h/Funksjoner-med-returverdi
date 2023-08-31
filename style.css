@@ -1,0 +1,48 @@
+body{
+    background-color: hsl(0, 0%, 0%);
+}
+
+.KnappRød{
+    box-shadow: 0px 0px 10px 5px rgb(255, 0, 0);
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    background-color: black;
+    color: rgb(255, 0, 0);
+    margin-left: 40px;
+    margin-top: 40px;
+    
+}
+.KnappGul{
+    box-shadow: 0px 0px 10px 5px yellow;
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    background-color: black;
+    color: yellow;
+    margin-left: 40px;
+    margin-top: 40px;
+    
+}
+.KnappBlå{
+    box-shadow: 0px 0px 10px 5px blue;
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    background-color: black;
+    color: blue;
+    margin-left: 40px;
+    margin-top: 40px;
+    
+}
+.KnappGrønn{
+    box-shadow: 0px 0px 10px 5px green;
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    background-color: black;
+    color: green;
+    margin-left: 40px;
+    margin-top: 40px;
+    
+}
